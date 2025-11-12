@@ -5,4 +5,4 @@
 📫 Reach me at: dhirajacharya4927@gmail.com  
 
 ## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhirajacharya)
