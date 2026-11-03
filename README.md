@@ -105,12 +105,6 @@
 - Built a backend application to manage gym members and operations with a full CRUD REST API for member data.
 - Structured the codebase using a clean MVC architecture for maintainability and easy extension.
 
-### 🤖 [LLM-Powered Chat Assistant](https://github.com/dhii24/LLM-Powered-Chat-Assistant)
-**Groq API · Llama 3.1 · Node.js**
-
-- Built an AI knowledge assistant on Groq and Llama 3.1, designed for real-time, low-latency inference.
-- Added conversational memory so the assistant gives context-aware responses across a chat session.
-
 <br/>
 
 ## 📊 GitHub Stats
